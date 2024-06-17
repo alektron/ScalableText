@@ -9,6 +9,8 @@ The method described by Evan Wallace is easy to implement works for all zoom lev
 
 This minimal C++/OpenGL implementation provides a simple playground to play around with this method.
 
+![image](https://github.com/alektron/ScalableText/assets/9118389/1f5a275a-8427-43a3-a7a0-6436d7466981)
+
 ## Requirements
 Not included in this repository but necessary to run it:
 - glew.h and the glew binaries (.lib/.dll)
