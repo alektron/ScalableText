@@ -13,3 +13,7 @@ This minimal C++/OpenGL implementation provides a simple playground to play arou
 Not included in this repository but necessary to run it:
 - glew.h and the glew binaries (.lib/.dll)
 - Arial.ttf font file. Other ttf fonts can be used. The filename must be adjusted in code
+
+## Credits
+- Evan Wallace (https://github.com/evanw) for proposing the methods this implementation is based on
+- stb_truetype (https://github.com/nothings/stb) used to parse .ttf files
